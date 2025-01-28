@@ -25,7 +25,7 @@ Oltre ai file utenti.xlsx e utenti.db, il sistema crea per entrambi gli script u
 
 >[!NOTE]
 >
->La libreria "**logging**" gestisce la registrazione degli eventi, generando due file di log distinti: uno per le informazioni operative (*log*) e uno per le attività di audit (*audit*), utili per tracciare l'esecuzione del codice, monitorare il flusso del programma ed esaminare eventuali errori o anomalie.
+>La libreria "**logging**" gestisce la registrazione degli eventi, generando due file di log distinti: uno per le informazioni operative (*log*) e uno per le attività di audit (*audit*), utili per tracciare l'esecuzione del codice, monitorare il flusso del programma ed esaminare eventuali errori o anomalie (*troubleshooting*).
 
 ## Big data
 
