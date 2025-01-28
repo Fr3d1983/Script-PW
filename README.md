@@ -15,7 +15,7 @@ Le altre librerie impiegate ("***logging***", "***random***", "***datetime***" e
 
 ## Logging e Audit
 
-Oltre ai file utenti.xlsx e utenti.db, il sistema crea per entrambi gli script un file di log principale e uno di Audit.
+Oltre ai file utenti.xlsx e utenti.db, il sistema crea per entrambi gli script un file di log principale e uno di audit.
 
 >[!NOTE]
 >
