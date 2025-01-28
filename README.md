@@ -1,6 +1,12 @@
-# Prerequisiti
+# Introduzione 
 
-I due script Python generano dai fittizi di utenti e impiegano le librerie "**faker**" (*per generare dati realistici*) e "**pandas**" (*per la manipolazione e l'organizzazione dei dati in DataFrame*).  
+I due script Python generano dai fittizi di utenti e impiegano le librerie "**faker**" (*per generare dati realistici*) e "**pandas**" (*per la manipolazione e l'organizzazione dei dati in DataFrame*). 
+
+* Il primo script popola un foglio di lavoro Excel con i dati (*nome, cognome, email e numero ti telefono) di 10 utenti.  
+
+* Il secondo script acquisisce i dati del file Excel e restituisce un database replicando esattamente i dati.
+
+# Prerequisiti 
 
 Per la corretta esecuzione degli script, è necessario installare le suddette librerie, se non già presenti nel sistema. L'installazione può essere effettuata tramite "**pip**", il gestore di pacchetti di Python, eseguendo i seguenti comandi nel prompt dei comandi (CMD) o terminale:
 
