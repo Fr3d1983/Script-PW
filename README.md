@@ -14,7 +14,11 @@ Per la corretta esecuzione degli script, è necessario installare le suddette li
 
 ***`pip install pandas`***
 
-***`pip install faker`***
+***`pip install faker`***  
+
+oppure con un unico comando:
+
+***`pip install pandas faker`***  
 
 ___
 Le altre librerie impiegate ("***logging***", "***random***", "***datetime***" e "***time***") sono incluse nella libreria standard di Python e non richiedono alcuna installazione.
