@@ -2,9 +2,9 @@
 
 I due script Python generano dai fittizi di utenti e impiegano le librerie "**faker**" (*per generare dati realistici*) e "**pandas**" (*per la manipolazione e l'organizzazione dei dati in DataFrame*). 
 
-* Il primo script popola un foglio di lavoro Excel con i dati (*nome, cognome, email e numero ti telefono) di 10 utenti.  
+* Il primo script popola un foglio di lavoro Excel con i dati (*nome, cognome, email e numero ti telefono*) di 10 utenti.  
 
-* Il secondo script acquisisce i dati del file Excel e restituisce un database replicando esattamente i dati.
+* Il secondo script acquisisce i dati del file Excel e restituisce un database replicando esattamente la struttura e i dati.
 
 # Prerequisiti 
 
