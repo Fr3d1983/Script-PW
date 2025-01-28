@@ -4,7 +4,7 @@
 
 I due script Python del progetto generano dati fittizi di utenti e impiegano le librerie "**faker**" (*per generare dati realistici*) e "**pandas**" (*per la manipolazione e l'organizzazione dei dati in DataFrame*). 
 
-* Il primo script crea un foglio di lavoro Excel con i dati (*nome, cognome, email e numero ti telefono*) di 10 utenti.  
+* Il primo script crea un foglio di lavoro Excel con i dati (*nome, cognome, email e numero di telefono*) di 10 utenti.  
 
 * Il secondo script acquisisce i dati del file Excel e popola un database SQLite replicandone esattamente la struttura e i dati.
 
