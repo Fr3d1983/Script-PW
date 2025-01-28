@@ -4,7 +4,7 @@ I due script Python generano dai fittizi di utenti e impiegano le librerie "**fa
 
 * Il primo script popola un foglio di lavoro Excel con i dati (*nome, cognome, email e numero ti telefono*) di 10 utenti.  
 
-* Il secondo script acquisisce i dati del file Excel e restituisce un database replicando esattamente la struttura e i dati.
+* Il secondo script acquisisce i dati del file Excel e restituisce un database SQL replicando esattamente la struttura e i dati.
 
 # Prerequisiti 
 
