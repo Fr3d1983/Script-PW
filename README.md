@@ -40,4 +40,4 @@ controllo che, come documentato nei log operativi e di audit, verifica l'univoci
 
 Questa gestione garantisce l'integrità dei dati e di conseguenza comporta un aumento dei tempi di elaborazione, specialmente all'aumentare del numero di utenti generati.
 
-![alt text](https://github.com/Fr3d1983/Script-PW/blob/main/Images/log%20%26%20audit.png) | width=100
+![alt text |100](https://github.com/Fr3d1983/Script-PW/blob/main/Images/log%20%26%20audit.png)
