@@ -40,13 +40,14 @@ controllo che, come documentato nei log operativi e di audit, verifica l'univoci
 
 Questa gestione garantisce l'integrità dei dati e di conseguenza comporta un aumento dei tempi di elaborazione, specialmente all'aumentare del numero di utenti generati.  
 
-###
-Nelle immagini seguenti si può vedere la generazione di 99.999 dati di utenti. In questo caso sono avvenute delle collisioni, ma il sistema ha correttamente rigenerato le email affinchè siano univoche.
-Il file di log mostra gli eventi descritti.
+### Esempio pratico con grandi volumi di dati
+
+Come dimostrato negli screenshot appena sotto, il sistema ha gestito con successo la generazione di 99.999 utenti, risolvendo automaticamente le collisioni tramite rigenerazione delle email per garantirne l’univocità.
+I file di log documentano l’intero processo, evidenziando sia le collisioni rilevate che le correzioni applicate.
 
 ![image](https://github.com/Fr3d1983/Script-PW/blob/main/Images/log%20%26%20audit.png)
 
-I dati, nonostante l'enorme numero di utenti, corrsispondo esattamente tra loro.
+Nonostante l’elevato volume di dati, il file Excel e il database SQLite mantengono una corrispondenza perfetta, confermando l’affidabilità del sistema.
 
 ![image](https://github.com/Fr3d1983/Script-PW/blob/main/Images/Excel%20%26%20dbSQL.png)
 
