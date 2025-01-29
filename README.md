@@ -39,3 +39,5 @@ In scenari di generazione di dati su larga scala, con un numero di utenti dell'o
 controllo che, come documentato nei log operativi e di audit, verifica l'univocità di ogni combinazione e scarta quelle duplicate, rigenerandole fino a trovarne una univoca.
 
 Questa gestione garantisce l'integrità dei dati e di conseguenza comporta un aumento dei tempi di elaborazione, specialmente all'aumentare del numero di utenti generati.
+
+![screenshot](Images/log & audit.png)
