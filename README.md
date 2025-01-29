@@ -45,7 +45,7 @@ Questa gestione garantisce l'integrità dei dati e di conseguenza comporta un au
 Come dimostrato negli screenshot appena sotto, il sistema ha gestito con successo la generazione di 99.999 utenti, risolvendo automaticamente le collisioni tramite rigenerazione delle email per garantirne l’univocità.
 I file di log documentano l’intero processo, evidenziando sia le collisioni rilevate che le correzioni applicate.
 
-![image](https://github.com/Fr3d1983/Script-PW/blob/main/Images/log%20%26%20audit.png)
+![alt text](https://github.com/Fr3d1983/Script-PW/blob/main/Images/log%20%26%20audit.png)
 
 Nonostante l’elevato volume di dati, il file Excel e il database SQLite mantengono una corrispondenza perfetta, confermando l’affidabilità del sistema.
 
