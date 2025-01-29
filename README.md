@@ -38,6 +38,14 @@ Oltre ai file utenti.xlsx e utenti.db, il sistema crea per entrambi gli script u
 In scenari di generazione di dati su larga scala, con un numero di utenti dell'ordine delle centinaia di migliaia o superiore, la probabilità di collisioni (*ovvero la generazione di email e numeri di telefono duplicati*) aumenta significativamente. Il sistema gestisce questa eventualità attraverso un meccanismo di 
 controllo che, come documentato nei log operativi e di audit, verifica l'univocità di ogni combinazione e scarta quelle duplicate, rigenerandole fino a trovarne una univoca.
 
-Questa gestione garantisce l'integrità dei dati e di conseguenza comporta un aumento dei tempi di elaborazione, specialmente all'aumentare del numero di utenti generati.
+Questa gestione garantisce l'integrità dei dati e di conseguenza comporta un aumento dei tempi di elaborazione, specialmente all'aumentare del numero di utenti generati.  
+
+###
+Nelle immagini seguenti si può vedere la generazione di 99.999 dati di utenti. In questo caso sono avvenute delle collisioni, ma il sistema ha correttamente rigenerato le email affinchè siano univoche.
+Il file di log mostra gli eventi descritti.
+
+![image](https://github.com/Fr3d1983/Script-PW/blob/main/Images/Excel%20%26%20dbSQL.png)
+
+I dati, nonostante l'enorme numero di utenti, corrsispondo esattamente tra loro.
 
 ![image](https://github.com/Fr3d1983/Script-PW/blob/main/Images/log%20%26%20audit.png)
