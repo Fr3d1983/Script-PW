@@ -35,7 +35,7 @@ Oltre ai file utenti.xlsx e utenti.db, il sistema crea per entrambi gli script u
 
 ### Gestione Big data
 
-In scenari di generazione di dati su larga scala, con un numero di utenti dell'ordine delle migliaia o superiore, la probabilità di collisioni (*ovvero la generazione di email e numeri di telefono duplicati*) aumenta significativamente. Il sistema gestisce questa eventualità attraverso un meccanismo di 
+In scenari di generazione di dati su larga scala, con un numero di utenti dell'ordine delle centinaia di migliaia o superiore, la probabilità di collisioni (*ovvero la generazione di email e numeri di telefono duplicati*) aumenta significativamente. Il sistema gestisce questa eventualità attraverso un meccanismo di 
 controllo che, come documentato nei log operativi e di audit, verifica l'univocità di ogni combinazione e scarta quelle duplicate, rigenerandole fino a trovarne una univoca.
 
 Questa gestione garantisce l'integrità dei dati e di conseguenza comporta un aumento dei tempi di elaborazione, specialmente all'aumentare del numero di utenti generati.
