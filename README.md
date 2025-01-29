@@ -44,8 +44,10 @@ Questa gestione garantisce l'integrità dei dati e di conseguenza comporta un au
 Nelle immagini seguenti si può vedere la generazione di 99.999 dati di utenti. In questo caso sono avvenute delle collisioni, ma il sistema ha correttamente rigenerato le email affinchè siano univoche.
 Il file di log mostra gli eventi descritti.
 
-![image](https://github.com/Fr3d1983/Script-PW/blob/main/Images/Excel%20%26%20dbSQL.png)
+![image](https://github.com/Fr3d1983/Script-PW/blob/main/Images/log%20%26%20audit.png)
 
 I dati, nonostante l'enorme numero di utenti, corrsispondo esattamente tra loro.
 
-![image](https://github.com/Fr3d1983/Script-PW/blob/main/Images/log%20%26%20audit.png)
+![image](https://github.com/Fr3d1983/Script-PW/blob/main/Images/Excel%20%26%20dbSQL.png)
+
+
