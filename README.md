@@ -8,7 +8,7 @@ I due script Python principali del progetto generano dati fittizi di utenti e im
 
 * Il secondo script acquisisce i dati del file Excel e popola un database SQLite replicandone esattamente la struttura e i dati.
 
-* Il terzo script è un file di configurazione con dei parametri come il numero degli utenti, la lista dei provider email, la localizzazione di Faker, i nomi dei file da generare e le impostazioni di logging e audit utilizzati dagli altri due script.
+* Il terzo script è un file di configurazione con dei parametri (*numero degli utenti, lista dei provider email, localizzazione di Faker, nomi dei file da generare e impostazioni di logging e audit*) utilizzati dagli altri due script.
     
 ## Prerequisiti 
 
