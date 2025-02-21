@@ -23,7 +23,7 @@ oppure con un unico comando:
 ***`pip install pandas faker`***  
 
 ___
-Le altre librerie impiegate ("***logging***", "***random***", "***datetime***") sono incluse nella libreria standard di Python e non richiedono alcuna installazione.
+Le altre librerie impiegate ("***logging***", "***sqlite3***", "***random***", "***datetime***") sono incluse nella libreria standard di Python e non richiedono alcuna installazione.
 
 ## Funzionalità extra implementate
 
