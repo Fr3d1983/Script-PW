@@ -51,6 +51,6 @@ I file di log documentano l’intero processo, evidenziando sia le collisioni ri
 
 Nonostante l’elevato volume di dati, il file Excel e il database SQLite mantengono una corrispondenza perfetta, confermando l’affidabilità del sistema.
 
-![image](https://github.com/Fr3d1983/Script-PW/blob/main/Images/Excel%20%26%20dbSQL.png)
+![image](https://github.com/Fr3d1983/Script-PW/blob/main/Images/Excel%20%26%20dbSQL%20100000%20utenti.png)
 
 
