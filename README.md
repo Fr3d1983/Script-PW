@@ -8,6 +8,8 @@ I due script Python del progetto generano dati fittizi di utenti e impiegano le 
 
 * Il secondo script acquisisce i dati del file Excel e popola un database SQLite replicandone esattamente la struttura e i dati.
 
+* Il terzo script è un file di configurazione con dei parametri impiegati nell'esecuzione dei due script.
+  
 ## Prerequisiti 
 
 Per la corretta esecuzione degli script, è necessario installare le suddette librerie, se non già presenti nel sistema. L'installazione può essere effettuata tramite "**pip**", il gestore di pacchetti di Python, eseguendo i seguenti comandi nel prompt dei comandi (CMD) o terminale:
