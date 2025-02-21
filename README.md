@@ -23,7 +23,7 @@ oppure con un unico comando:
 ***`pip install pandas faker`***  
 
 ___
-Le altre librerie impiegate ("***logging***", "***sqlite3***", "***random***", "***datetime***") sono incluse nella libreria standard di Python e non richiedono alcuna installazione.
+Le altre librerie/moduli impiegate ("***logging***", "***sqlite3***", "***random***", "***datetime***") sono incluse nella libreria standard di Python e non richiedono alcuna installazione.
 
 ## Funzionalità extra implementate
 
@@ -33,7 +33,7 @@ Oltre ai file utenti.xlsx e utenti.db, il sistema crea per entrambi gli script u
 
 >[!NOTE]
 >
->La libreria "**logging**" gestisce la registrazione degli eventi, generando due file di log distinti: uno per le informazioni operative (*log*) e uno per le attività di audit (*audit*), utili per tracciare l'esecuzione del codice, monitorare il flusso del programma ed esaminare eventuali errori o anomalie (*troubleshooting*).
+>Il modulo "**logging**" gestisce la registrazione degli eventi, generando due file di log distinti: uno per le informazioni operative (*log*) e uno per le attività di audit (*audit*), utili per tracciare l'esecuzione del codice, monitorare il flusso del programma ed esaminare eventuali errori o anomalie (*troubleshooting*).
 
 ### Gestione Big data
 
